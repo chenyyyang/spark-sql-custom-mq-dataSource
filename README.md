@@ -1,6 +1,6 @@
 
 > 本文基于 Spark 3.1.2 版本 （最新的stable版本）  
-> 可能是全网第一篇中文 Spark 3.x Kafka数据源源码的博文了，纯手写，如有错误，望诸君指点一二
+> 可能是全网第一篇中文 Spark 3.x Kafka数据源源码的博文了，基于源码可以自行实现多种数据源增强功能，比如KafkaCluster failover
 
 # 如何理解Spark Structured Streaming流处理
 
